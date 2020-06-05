@@ -1,5 +1,6 @@
 # Fatorial-Dupla
 Cálculo da Fatorial dupla
+
 Em matemática, o produto de todos inteiros de 1 até algum inteiro não negativo n que tem a mesma paridade de n é chamado de duplo fatorial ou semifatorial de n e é denotado por n!!. Isto é,
 
 n!!= 'Produtório, variando de i = 0 até k, de'(n-2i) = n(n-2)(n-4)...
