@@ -1,5 +1,5 @@
 # Fatorial-Dupla
-Cálculo da Fatorial dupla
+Cálculo da Fatorial dupla.
 
 Em matemática, o produto de todos inteiros de 1 até algum inteiro não negativo n que tem a mesma paridade de n é chamado de duplo fatorial ou semifatorial de n e é denotado por n!!. Isto é,
 
